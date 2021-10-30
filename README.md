@@ -1,4 +1,4 @@
-# Integração Arduino com MATLAB
+# Integração Arduino com MATLAB (Leitura de Termistor)
 
 No projeto desenvolvido foi utilizado um termistor NTC 10K.
 
@@ -8,4 +8,4 @@ No projeto desenvolvido foi utilizado um termistor NTC 10K.
 4) O MATLAB recebe a temperatura pela porta de comunicação
 
 Imagem do circuito:
-![Circuito](screenshot.png)
+![Circuito](Imagem1.jpg)
