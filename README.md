@@ -10,3 +10,5 @@ No projeto desenvolvido foi utilizado um termistor NTC 10K.
 
 Imagem do circuito:
 ![Circuito](Imagem1.jpg)
+
+Desenvolvido para o projeto final da disciplina de Laboratório Matemático para Engenharia Elétrica II - DELT UFPR
